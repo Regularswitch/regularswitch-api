@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "body-parser": "~1.8.1",
+    "cors": "^2.8.5",
     "express": "~4.9.0",
     "fs": "0.0.1-security",
     "glob": "^7.1.1",
